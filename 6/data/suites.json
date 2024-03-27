@@ -1,1 +1,1 @@
-{"uid":"98d3104e051c652961429bf95fa0b5d6","children":[],"name":"suites"}
+{"uid":"98d3104e051c652961429bf95fa0b5d6","children":[{"name":"Add and purchase the item","children":[{"name":"Add and purchase the item","uid":"905cac7da6f58552","parentUid":"ffd4f795a77caa124a46a5a9dc378991","status":"passed","time":{"start":1711515265668,"stop":1711515267058,"duration":1390},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":["@smoke"]}],"uid":"ffd4f795a77caa124a46a5a9dc378991"}],"name":"suites"}
